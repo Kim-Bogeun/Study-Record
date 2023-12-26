@@ -1,7 +1,7 @@
 # Study_Record
-학습 방향을 잡는 것에 있어 Huffon 님의 NLP 101 자료, 주재걸 교수님의 블로그 글이 큰 도움이 되었습니다. 감사합니다.
-(https://github.com/Huffon/NLP101/blob/master/README_KR.md)
-(https://blog.naver.com/joyfull1/221004891456)
+학습 방향을 잡는 것에 있어 [Huffon 님의 NLP 101 자료](https://github.com/Huffon/NLP101/blob/master/README_KR.md), [주재걸 교수님의 블로그 글](https://blog.naver.com/joyfull1/221004891456)이 큰 도움이 되었습니다. 감사합니다.
+
+
 <br/>
 
 ## Mathematics
