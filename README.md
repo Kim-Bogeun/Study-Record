@@ -26,7 +26,7 @@
 ## Machine Learning
 | Source | Description |
 |:---:|---|
-| [An Introduction to Statistical Learning (학부 레벨)](http://www-bcf.usc.edu/~gareth/ISL/) | 학부 '통계적데이터마이닝(STA3014)' 과목을 수강하며 사용한 교재입니다.  |
+| [An Introduction to Statistical Learning(ISLR)](http://www-bcf.usc.edu/~gareth/ISL/) | 학부 '통계적데이터마이닝(STA3014)' 과목을 수강하며 사용한 교재입니다.  |
 | 트리 모델 논문(강필성 교수님의 PYMR 참고) | 트리 모델들의 리뷰 페이퍼부터, Boosting Model의 기초, XGBoost와 LGBM, IForest 등 좋은 성능을 내는 모델의 논문을 뜯어보며 공부하였습니다. |
 
 
