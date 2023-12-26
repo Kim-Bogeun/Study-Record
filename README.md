@@ -1,4 +1,6 @@
 # Study-Record
+학습 방향을 잡는 것에 있어 Huffon 님의 NLP 101 자료가 큰 도움이 되었습니다. 감사합니다.
+(https://github.com/Huffon/NLP101/blob/master/README_KR.md)
 
 ### Linear Algebra
 학교의 행렬대수학 강의와 Friedberg 저 - Linear Algebra로 기본적인 지식은 있는 상태에서 부족하다고 생각된 부분을 Gilbert Strang 의 강의로 보충하였다. (Eigenvector,SVD 등)
@@ -8,4 +10,4 @@
 |:---:|---|
 | [Friedberg - Linear Algebra](https://product.kyobobook.co.kr/detail/S000001743767) | 학습에 이용한 선형대수 교재 한글판 |
 | [Linear Algebra](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PLE7DDD91010BC51F8) | Gilbert Strang 교수의 선형대수 강의 |
-| [Matrix methods in Data Analysis and Machine Learning](https://www.youtube.com/watch?v=Cx5Z-OslNWE&list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k) | Gilbert Strang 교수의 선형대수 응용편입니다. 선형대수를 선수 지식으로 하기에 난이도가 있지만, 실제 선형대수가 머신러닝에 어떻게 활용되는지 학습할 수 있는 좋은 강의입니다. |
+| [Matrix methods in Data Analysis and Machine Learning](https://www.youtube.com/watch?v=Cx5Z-OslNWE&list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k) | Gilbert Strang 교수의 선형대수 응용편. 선형대수를 선수 지식으로 하기에 난이도가 있지만, 실제 선형대수가 머신러닝에 어떻게 활용되는지 학습할 수 있는 좋은 강의입니다. |
