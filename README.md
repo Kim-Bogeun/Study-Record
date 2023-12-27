@@ -15,12 +15,13 @@
 |[김충락 교수님 회귀분석 강의](|김충락 교수님의 회귀분석 강의, 배우는 내용이 넓고 깊어 배경지식이 있는 상태에서 들을 때 더 도움이 된다고 생각합니다.|
 ### Linear Algebra
 학교에서 열리는 선형대수학 전공과 Friedberg 저 - Linear Algebra로 기본적인 지식은 있는 상태에서 부족하다고 생각된 부분을 Gilbert Strang 의 강의로 보충하였습니다. (Eigenvector, Diagonalization, SVD 등)
-이후 선형대수 응용 강의를 들으며 선형대수학이 통계에서, 그리고 머신러닝에서 어떻게 쓰이는지 학습했습니다.
+이후 선형대수 응용 강의를 들으며 선형대수학이 통계에서, 그리고 머신러닝에서 어떻게 쓰이는지 학습했습니다. 공부하면 할 수록 선형대수학의 중요성을 느끼게 되어 시간을 많이 투자했습니다.
 
 | Source | Description |
 |:---:|---|
 | [Friedberg - Linear Algebra](https://product.kyobobook.co.kr/detail/S000001743767) | 전반적인 학습에 이용했었던 선형대수 교재 한글판 |
 | [Linear Algebra](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PLE7DDD91010BC51F8) | Gilbert Strang 교수의 선형대수 강의입니다. 필요한 부분들을 발췌하며 들었고, 직관적인 이해에 좀 더 중심을 두며 들었습니다. |
+| [공돌이의 수학 정리 노트](https://angeloyeo.github.io/) | 추가적으로 직관적 이해에 도움이 되었던 사이트가 있어 공유합니다. |
 | [Matrix methods in Data Analysis and Machine Learning](https://www.youtube.com/watch?v=Cx5Z-OslNWE&list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k) | Gilbert Strang 교수의 선형대수 응용편 |
 
 
