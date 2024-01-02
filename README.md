@@ -1,5 +1,5 @@
 # Study_Record
-학습 방향을 잡는 데 있어 [Huffon 님의 NLP 101 자료](https://github.com/Huffon/NLP101/blob/master/README_KR.md), [주재걸 교수님의 블로그 글](https://blog.naver.com/joyfull1/221004891456)이 큰 도움이 되었습니다. 감사합니다.
+학습 방향을 잡는 데 있어 [Huffon 님의 NLP 101 자료](https://github.com/Huffon/NLP101/blob/master/README_KR.md), [주재걸 교수님의 블로그 글](https://blog.naver.com/joyfull1/221004891456)이 큰 도움이 되었습니다. 감사합니다.   
 위와 같은 추천으로부터 많이 배우고, 또 도움을 많이 받았기 때문에 저의 경험도 누군가에게 도움이 되었으면 하는 마음에서 공부 경험과 그 출처를 기록합니다. 
 
 <br/>
@@ -8,7 +8,7 @@
 ### Mathematical Statistics 
 
 ### Regression analysis
-학교에서 전공 강의를 들었지만, 학회 회귀분석 교안을 작성하기 위해 김충락 교수님의 회귀분석 I, II 강의를 추가로 들었습니다. 교재는 박성현 교수님의 회귀분석 교재를 사용하였습니다. 추후 경제대학 대학원 강의 계량경제학1을 통해 더 보충할 예정입니다.
+학교에서 전공 강의를 들었지만, 학회 회귀분석 교안을 작성하기 위해 김충락 교수님의 회귀분석 I, II 강의를 추가로 들었습니다. 교재는 박성현 교수님의 회귀분석 교재를 사용하였습니다. 
 | Source | Description |
 |:---:|---|
 |[박성현 저 -회귀분석](https://product.kyobobook.co.kr/detail/S000001256368)|학습에 사용한 회귀분석 교재|
@@ -39,6 +39,11 @@
 ## Deep Learning
 
 ## NLP
+
+## Miscellaneous
+| Source | Description |
+|:---:|---|
+| [LG Aimers](https://www.lgaimers.ai/)  | LG에서 방학기간 동안 진행하는 온라인 교육 및 해커톤입니다. 주재걸 교수님, 강필성 교수님 등 훌륭한 교수님들이 진행하시기 때문에 강의의 질이 아주 좋았습니다. |
 
 
 
